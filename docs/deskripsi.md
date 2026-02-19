@@ -1,3 +1,4 @@
-# Deskripsi Proyek
+## Catatan
 
-Repository ini digunakan untuk latihan alur kerja Git dan GitHub.
+Alur kerja Git dan GitHub telah berhasil dipraktikkan.
+
